@@ -1,5 +1,7 @@
 # EMPLOYEES-PERFORMANCE
 ![Employee dashboard picture](https://github.com/user-attachments/assets/2ea00faf-4ffb-4dbe-ba8e-28855d284362)
+![employee 2](https://github.com/user-attachments/assets/05a85b82-ca56-4165-8380-6408720fc41c)
+![employee power bi](https://github.com/user-attachments/assets/e59b91b8-5813-4685-a612-047b23e5083c)
 
 EMPLOYEES PERFORMANCE
 
@@ -60,7 +62,7 @@ Getting Started
 3. Explore opportunities to improve employees performance and satisfaction
 
 Requirements
-- Sales data is in Excel format
+- Sales data is in Excel and Power BI format
 
 Author
 Arotile Oluwaseun Bamitale
